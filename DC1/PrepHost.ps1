@@ -1,5 +1,5 @@
 # Capture Transscript to file.
-Start-Transcript -Path 'C:\Temp\OneIMBootcampFiles\DC1\PrepHost.log'
+Start-Transcript -Path 'C:\Temp\OneIMBootcampFiles\AD\PrepHost.log'
 
 # Prep Host Requirements
 Install-WindowsFeature NET-Framework-Core 

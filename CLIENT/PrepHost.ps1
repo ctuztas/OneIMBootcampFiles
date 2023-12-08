@@ -2,8 +2,6 @@
 Start-Transcript -Path 'C:\Temp\OneIMBootcampFiles\CLIENT\PrepHost.log'
 
 # Prep Host Requirements
-Install-WindowsFeature NET-Framework-Core 
-
 
 # Download and install WinGet for software downloads
 New-Item -Path "C:\Temp" -Name "Software" -ItemType Directory
